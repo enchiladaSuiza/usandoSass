@@ -1,18 +1,29 @@
-/* Colores */
-/* Fuentes */
-.blog {
-  background-color: #ffffff;
-  max-width: unset;
-  padding: 5% 10%;
+h4, h3 {
+  background-color: blanchedalmond;
+  color: firebrick;
+  font-family: "Times New Roman", Times, serif;
 }
 
-p {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #ffff70;
+h3 {
+  margin: 10px;
 }
 
-a {
-  font-family: Arial, Helvetica, sans-serif;
+h4 {
+  margin: 8px;
+}
+
+h1 {
+  font-size: 2em;
+  padding: 5px;
+  background-color: #fdee19;
+  color: #3002d8;
+}
+
+h2 {
+  font-size: 1.5em;
+  padding: 3px;
+  background-color: #fdee19;
+  color: #3002d8;
 }
 
 /*# sourceMappingURL=main.css.map */

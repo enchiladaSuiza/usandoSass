@@ -1,0 +1,15 @@
+%heading {
+    background-color: blanchedalmond;
+    color: firebrick;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+    margin: 10px;
+    @extend %heading;
+}
+
+h4 {
+    margin: 8px;
+    @extend %heading;
+}
