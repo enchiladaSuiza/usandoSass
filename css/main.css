@@ -1,3 +1,18 @@
+/* Colores */
+/* Fuentes */
+.blog {
+  background-color: #ffffff;
+  max-width: unset;
+  padding: 5% 10%;
+}
 
+p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #ffff70;
+}
+
+a {
+  font-family: Arial, Helvetica, sans-serif;
+}
 
 /*# sourceMappingURL=main.css.map */

@@ -1,0 +1,16 @@
+@import './_global';
+
+.blog {
+    background-color: $white;
+    max-width: unset;
+    padding: 5% 10%;
+}
+
+p {
+    font-family: $font-text;
+    background-color: $cream;
+}
+
+a {
+    font-family: $font-link;
+}
